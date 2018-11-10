@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+  <archetypes>
+    <archetype>
+      <groupId>com.sasa</groupId>
+      <artifactId>ui5_prototype</artifactId>
+      <version>1.0.1</version>
+	 <description>Maven automated ui5 project by Sandor Veres, included ui5 preload, selenium for tests, licensing, and default routing</description>
+    </archetype>
+ </archetypes>
+</archetype-catalog>
