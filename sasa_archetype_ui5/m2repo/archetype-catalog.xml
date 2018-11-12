@@ -5,7 +5,7 @@
       <groupId>com.sasa</groupId>
       <artifactId>ui5_prototype</artifactId>
       <version>1.0.1</version>
-	    <repository>https://raw.githubusercontent.com/sandor-veres/maven/master/sasa_archetype_ui5/m2repo/repository/com/sasa/ui5_prototype/</repository>
+	    <repository>https://raw.githubusercontent.com/sandor-veres/maven/master/sasa_archetype_ui5/m2repo/repository</repository>
 	 <description>Maven automated ui5 project by Sandor Veres, included ui5 preload, selenium for tests, licensing, and default routing</description>
     </archetype>
  </archetypes>
